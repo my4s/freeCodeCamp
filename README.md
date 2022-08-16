@@ -3,7 +3,7 @@
 
 ***
 
-- [ ] (New) Responsive Web Design Certification
+- [ ] **(New) Responsive Web Design Certification**
   - [ ] Learn HTML by Building a Cat Photo App
   - [ ] Learn Basic CSS by Building a Cafe Menu
   - [ ] Learn CSS Colors by Building a Set of Colored Markers
@@ -24,7 +24,8 @@
   - [ ] Learn CSS Animation by Building a Ferris Wheel
   - [ ] Learn CSS Transforms by Building a Penguin
     - [ ] Personal Portfolio Webpage *(Certification Project)*
-- [ ] Legacy Responsive Web Design Certification
+
+- [ ] **Legacy Responsive Web Design Certification**
   - [ ] Basic HTML and HTML5
   - [ ] Basic CCS
   - [ ] Applied Visual Design
@@ -38,7 +39,8 @@
     - [ ] Build a Product Landing Page
     - [ ] Build a Technical Documentation Page
     - [ ] Build a Personal Portfolio Webpage
-- [ ] JavaScript Algorithms and Data Structures Certification
+
+- [ ] **JavaScript Algorithms and Data Structures Certification**
   - [ ] Basic JavaScript
   - [ ] ES6
   - [ ] Regular Expressions
@@ -54,7 +56,8 @@
     - [ ] Caesars Cipher
     - [ ] Telephone Number Validator
     - [ ] Cash Register
-- [ ] Front End Development Libraries Certification
+
+- [ ] **Front End Development Libraries Certification**
   - [ ] Bootstrap
   - [ ] jQuery
   - [ ] SASS
@@ -67,7 +70,8 @@
     - [ ] Build a Drum Machine
     - [ ] Build a JavaScript Calculator
     - [ ] Build a 25 + 5 Clock
-- [ ] Data Visualization Certification
+
+- [ ] **Data Visualization Certification**
   - [ ] Data Visualization with D3
   - [ ] JSON APIs and AJAX
   - [ ] Data Visualization Projects
@@ -76,7 +80,8 @@
     - [ ] Visualize Data with a Heat Map
     - [ ] Visualize Data with a Choropleth Map
     - [ ] Visualize Data with a Treemap Diagram
-- [ ] Relational Database (Beta) Certification
+
+- [ ] **Relational Database (Beta) Certification**
   - [ ] Learn Bash by Building a Boilerplate
   - [ ] Learn Relational Database by Building a Mario Database
   - [ ] Celestial Bodies Database
@@ -91,7 +96,8 @@
   - [ ] Learn Git by Building an SQL Reference Object
   - [ ] Periodic Table Database
   - [ ] Number Guessing Game
-- [ ] Back End Development and APIs Certification
+
+- [ ] **Back End Development and APIs Certification**
   - [ ] Managing Packages with NPM
   - [ ] Basic Node and Express
   - [ ] MongoDB and Mongoose
@@ -101,7 +107,8 @@
     - [ ] URL Shortener Microservice
     - [ ] Exercise Tracker
     - [ ] File Metadata Microservice
-- [ ] Quality Assurance Certification
+
+- [ ] **Quality Assurance Certification**
   - [ ] Quality Assurance and Testing with Chai
   - [ ] Advanced Node and Express
   - [ ] Quality Assurance Projects
@@ -110,7 +117,8 @@
     - [ ] Personal Library
     - [ ] Sudoku Solver
     - [ ] American British Translator
-- [ ] Scientific Computing with Python Certification
+
+- [ ] **Scientific Computing with Python Certification**
   - [ ] Python for Everybody
   - [ ] Scientific Computing with Python Projects
     - [ ] Arithmetic Formatter
@@ -118,7 +126,8 @@
     - [ ] Budget App
     - [ ] Polygon Area Calculator
     - [ ] Probability Calculator
-- [ ] Data Analysis with Python Certification
+
+- [ ] **Data Analysis with Python Certification**
   - [ ] Data Analysis with Python
   - [ ] Numpy
   - [ ] Data Analysis with Python Projects
@@ -127,7 +136,8 @@
     - [ ] Medical Data Visualizer
     - [ ] Page View Time Series Visualizer
     - [ ] Sea Level Predictor
-- [ ] Information Security Certification
+
+- [ ] **Information Security Certification**
   - [ ] Information Security with HelmetJS
   - [ ] Python for Penetration Testing
   - [ ] Information Security Projects
@@ -136,7 +146,8 @@
     - [ ] Port Scanner
     - [ ] SHA-1 Password Cracker
     - [ ] Secure Real Time Multiplayer Game
-- [ ] Machine Learning with Python Certification
+
+- [ ] **Machine Learning with Python Certification**
   - [ ] Tensorflow
   - [ ] How Neural Networks Work
   - [ ] Machine Learning with Python Projects
@@ -145,7 +156,8 @@
     - [ ] Book Recommendation Engine using KNN
     - [ ] Linear Regression Health Costs Calculator
     - [ ] Neutral Network SMS Text Classifier
-- [ ] Coding Interview Prep
+
+- [ ] **Coding Interview Prep**
   - [ ] Algorithms
   - [ ] Data Structures
   - [ ] Take Home Projects
