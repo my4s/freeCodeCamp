@@ -1,5 +1,5 @@
 # freeCodeCamp
-[freeCodeCamp](https://www.freecodecamp.org/) projects and courseworks.
+[freeCodeCamp](https://www.freecodecamp.org/) courseworks.
 
 ***
 
