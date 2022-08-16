@@ -9,7 +9,7 @@
   - [X] Learn CSS Colors by Building a Set of Colored Markers
   - [X] Learn HTML Forms by Building a Registration Form
     - [X] [Survey Form](https://github.com/m3l1nk4/survey-form) *(Certification Project)*
-  - [ ] Learn the CSS Box Model by Building a Rothko Painting
+  - [X] Learn the CSS Box Model by Building a Rothko Painting
   - [ ] Learn CSS Flexbox by Building a Photo Gallery
   - [ ] Learn Typography by Building a Nutrition Label
   - [ ] Learn Accessibility by Building a Quiz
