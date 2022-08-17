@@ -8,22 +8,22 @@
   - [X] Learn Basic CSS by Building a Cafe Menu
   - [X] Learn CSS Colors by Building a Set of Colored Markers
   - [X] Learn HTML Forms by Building a Registration Form
-    - [X] [Survey Form](https://github.com/m3l1nk4/survey-form) *(Certification Project)*
+  - [X] [Survey Form](https://github.com/m3l1nk4/survey-form) *(Certification Project)*
   - [X] Learn the CSS Box Model by Building a Rothko Painting
-  - [ ] Learn CSS Flexbox by Building a Photo Gallery
+  - [X] Learn CSS Flexbox by Building a Photo Gallery
   - [ ] Learn Typography by Building a Nutrition Label
   - [ ] Learn Accessibility by Building a Quiz
-    - [ ] Tribute Page *(Certification Project)*
+  - [ ] Tribute Page *(Certification Project)*
   - [ ] Learn More About CSS Pseudo Selectores By Building A Balance Sheet
   - [ ] Learn Intermediate CSS by Building a Picasso Painting
   - [ ] Learn Responsive Web Design by Building a Piano
-    - [ ] Technical Documentation Page *(Certification Project)*
+  - [ ] Technical Documentation Page *(Certification Project)*
   - [ ] Learn CSS Variables by Building a City Skyline
   - [ ] Learn CSS Grid by Building a Magazine
-    - [ ] Product Landing Page *(Certification Project)*
+  - [ ] Product Landing Page *(Certification Project)*
   - [ ] Learn CSS Animation by Building a Ferris Wheel
   - [ ] Learn CSS Transforms by Building a Penguin
-    - [ ] Personal Portfolio Webpage *(Certification Project)*
+  - [ ] Personal Portfolio Webpage *(Certification Project)*
  
 ## Legacy Responsive Web Design Certification
   - [ ] Basic HTML and HTML5
