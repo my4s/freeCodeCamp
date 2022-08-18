@@ -11,7 +11,7 @@
   - [X] [Survey Form](https://github.com/m3l1nk4/survey-form) *(Certification Project)*
   - [X] Learn the CSS Box Model by Building a Rothko Painting
   - [X] Learn CSS Flexbox by Building a Photo Gallery
-  - [ ] Learn Typography by Building a Nutrition Label
+  - [X] Learn Typography by Building a Nutrition Label
   - [ ] Learn Accessibility by Building a Quiz
   - [ ] Tribute Page *(Certification Project)*
   - [ ] Learn More About CSS Pseudo Selectores By Building A Balance Sheet
