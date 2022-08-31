@@ -12,7 +12,7 @@
   - [X] Learn the CSS Box Model by Building a Rothko Painting
   - [X] Learn CSS Flexbox by Building a Photo Gallery
   - [X] Learn Typography by Building a Nutrition Label
-  - [ ] Learn Accessibility by Building a Quiz
+  - [X] Learn Accessibility by Building a Quiz
   - [ ] Tribute Page *(Certification Project)*
   - [ ] Learn More About CSS Pseudo Selectores By Building A Balance Sheet
   - [ ] Learn Intermediate CSS by Building a Picasso Painting
