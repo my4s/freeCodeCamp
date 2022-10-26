@@ -16,7 +16,7 @@
   - [X] [Tribute Page](https://github.com/m3l1nk4/tribute-page) *(Certification Project)*
   - [X] Learn More About CSS Pseudo Selectores By Building A Balance Sheet
   - [X] Learn Intermediate CSS by Building a Picasso Painting
-  - [ ] Learn Responsive Web Design by Building a Piano
+  - [X] Learn Responsive Web Design by Building a Piano
   - [ ] Technical Documentation Page *(Certification Project)*
   - [ ] Learn CSS Variables by Building a City Skyline
   - [ ] Learn CSS Grid by Building a Magazine
