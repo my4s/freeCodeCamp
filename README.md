@@ -15,7 +15,7 @@
   - [X] Learn Accessibility by Building a Quiz
   - [X] [Tribute Page](https://github.com/m3l1nk4/tribute-page) *(Certification Project)*
   - [X] Learn More About CSS Pseudo Selectores By Building A Balance Sheet
-  - [ ] Learn Intermediate CSS by Building a Picasso Painting
+  - [X] Learn Intermediate CSS by Building a Picasso Painting
   - [ ] Learn Responsive Web Design by Building a Piano
   - [ ] Technical Documentation Page *(Certification Project)*
   - [ ] Learn CSS Variables by Building a City Skyline
