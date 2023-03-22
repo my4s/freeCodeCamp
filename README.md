@@ -24,21 +24,6 @@
   - [ ] Learn CSS Animation by Building a Ferris Wheel
   - [ ] Learn CSS Transforms by Building a Penguin
   - [ ] Personal Portfolio Webpage *(Certification Project)*
- 
-## Legacy Responsive Web Design Certification
-  - [ ] Basic HTML and HTML5
-  - [ ] Basic CCS
-  - [ ] Applied Visual Design
-  - [ ] Applied Accessibility
-  - [ ] Responsive Web Design Principles
-  - [ ] CSS Flexbox
-  - [ ] CSS Grid
-  - [ ] Responsive Web Design Projects
-    - [ ] Build a Tribute Page
-    - [ ] Build a Survey Form
-    - [ ] Build a Product Landing Page
-    - [ ] Build a Technical Documentation Page
-    - [ ] Build a Personal Portfolio Webpage
 
 ## JavaScript Algorithms and Data Structures Certification
   - [ ] Basic JavaScript
