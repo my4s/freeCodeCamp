@@ -13,7 +13,7 @@
   - [X] Learn CSS Flexbox by Building a Photo Gallery
   - [X] Learn Typography by Building a Nutrition Label
   - [ ] Learn Accessibility by Building a Quiz
-  - [ ] Tribute Page *(Certification Project)*
+  - [X] Tribute Page *(Certification Project)*
   - [ ] Learn More About CSS Pseudo Selectores By Building A Balance Sheet
   - [ ] Learn Intermediate CSS by Building a Picasso Painting
   - [ ] Learn Responsive Web Design by Building a Piano
