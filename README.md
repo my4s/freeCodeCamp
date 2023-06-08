@@ -151,5 +151,15 @@
  
  
  
-##freeCodeCamp Certifications
-![Image](https://.png)
+## freeCodeCamp Certifications
+- [ ] (New) Responsive Web Design Certification <br> ![Image](https://.png)
+- [ ] JavaScript Algorithms and Data Structures Certification <br> ![Image](https://.png)
+- [ ] Front End Development Libraries Certification <br> ![Image](https://.png)
+- [ ] Data Visualization Certification <br> ![Image](https://.png)
+- [ ] Relational Database (Beta) Certification <br> ![Image](https://.png)
+- [ ] Back End Development and APIs Certification <br> ![Image](https://.png)
+- [ ] Quality Assurance Certification <br> ![Image](https://.png)
+- [ ] Scientific Computing with Python Certification <br> ![Image](https://.png)
+- [ ] Data Analysis with Python Certification <br> ![Image](https://.png)
+- [ ] Information Security Certification <br> ![Image](https://.png)
+- [ ] Machine Learning with Python Certification <br> ![Image](https://.png)
