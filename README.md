@@ -148,3 +148,8 @@
   - [ ] Take Home Projects
   - [ ] Rosetta Code
   - [ ] Project Euler
+ 
+ 
+ 
+##freeCodeCamp Certifications
+![Image](https://.png)
